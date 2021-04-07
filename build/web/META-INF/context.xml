@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Mini_Social_Network">
+    <Resource name="SE141102" type="javax.sql.DataSource" auth="Container"
+                  driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+                  url = "jdbc:sqlserver://localhost:1433; databasename=Social_Network"
+                  username="sa" password="01675544535a"
+    />
+</Context> 
